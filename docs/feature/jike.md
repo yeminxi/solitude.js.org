@@ -21,9 +21,8 @@ description: 添加即刻短文页面
    rightend: ""
    ---
    ```
-3. 在 source 文件夹下添加 \_data 文件夹并建立名为 essay.yaml 的文件，下方内容为模版，根据要求进行添加。
+3. 在 source 文件夹下添加 \_data 文件夹并建立名为 brevity.yaml 的文件，下方内容为模版，根据要求进行添加。
    ```yaml
-   essay_list:
      - content: 视频播放测试！
        date: 2023-10-31 15:32
        video:
